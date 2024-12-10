@@ -9,3 +9,4 @@ Progress
 - Merilis Dokumen
 - Menggunakan `git branch`
 - Mencoba `git checkout`
+- mencoba cabang dari hash
