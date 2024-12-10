@@ -6,6 +6,6 @@ Progress
 - Membuat Repository
 - Menambahkan deskripsi
 - Menggunakan `git commit`
--
-- 
+- Merilis Dokumen
+- Menggunakan `git branch`
 - Mencoba `git checkout`
