@@ -7,4 +7,5 @@ Progress
 - Menambahkan deskripsi
 - Menggunakan `git commit`
 - Merilis Dokumen
-- Menggunakan 'git branch'
+- Menggunakan `git branch`
+- Mencoba `git checkout`
