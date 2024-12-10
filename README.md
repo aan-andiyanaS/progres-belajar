@@ -5,3 +5,4 @@ pada course ini saya mulai dengan membuat  repository dan membuat beberapa deskr
 Progress
 - Membuat Repository
 - Menambahkan deskripsi
+- mencoba cabang dari hash
