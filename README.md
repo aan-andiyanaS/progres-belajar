@@ -13,6 +13,3 @@ Progress
 - Belajar kolaborasi dengan kolaborasi
 - Tambah pull baru
 - coba Sync fork
-- Mencoba Revert
-- coba lagi Revert
-- tambah lagi buat Revert
