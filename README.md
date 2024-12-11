@@ -10,3 +10,9 @@ Progress
 - Menggunakan `git branch`
 - Mencoba `git checkout`
 - mencoba cabang dari hash
+- Belajar kolaborasi dengan kolaborasi
+- Tambah pull baru
+- coba Sync fork
+- Mencoba Revert
+- coba lagi Revert
+- coba Squashing Changes
