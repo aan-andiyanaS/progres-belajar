@@ -15,3 +15,4 @@ Progress
 - coba Sync fork
 - Mencoba Revert
 - coba lagi Revert
+- coba Squashing Changes
