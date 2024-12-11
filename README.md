@@ -11,3 +11,4 @@ Progress
 - Mencoba `git checkout`
 - mencoba cabang dari hash
 - Belajar kolaborasi dengan kolaborasi
+- Tambah pull baru
