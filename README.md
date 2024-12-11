@@ -14,4 +14,3 @@ Progress
 - Tambah pull baru
 - coba Sync fork
 - Mencoba Revert
-- coba lagi Revert
