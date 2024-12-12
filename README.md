@@ -15,4 +15,6 @@ Progress
 - coba Sync fork
 - Mencoba Revert
 - coba lagi Revert
-- coba Squashing Changes
+- Coba Squashing Changes 1
+- Coba Squashing Changes 2
+- Coba Squashing Changes 3
