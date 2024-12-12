@@ -17,3 +17,4 @@ Progress
 - coba lagi Revert
 - Coba Squashing Changes 1
 - Coba Squashing Changes 2
+- Coba Squashing Changes 3
