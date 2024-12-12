@@ -16,3 +16,4 @@ Progress
 - Mencoba Revert
 - coba lagi Revert
 - Coba Squashing Changes 1
+- Coba Squashing Changes 2
